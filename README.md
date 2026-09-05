@@ -69,5 +69,9 @@ Cloud Student Attendance System/
         │ 📋 Attendance    │
         └──────────────────┘
 <img width="946" height="471" alt="Screenshot 2026-09-05 202330" src="https://github.com/user-attachments/assets/e32acc05-c6a6-4ac9-8a78-f4be65edb8f6" />
+<img width="922" height="474" alt="Screenshot 2026-09-05 202414" src="https://github.com/user-attachments/assets/9b164e8b-c3f5-4e88-8ec5-90bb343e9e21" />
+<img width="905" height="448" alt="Screenshot 2026-09-05 202512" src="https://github.com/user-attachments/assets/adca1b55-3bdf-482f-ba78-35cff4cd5dfe" />
+
+
 
 
