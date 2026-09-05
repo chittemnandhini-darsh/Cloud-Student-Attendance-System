@@ -45,4 +45,29 @@ Cloud Student Attendance System/
     ├── style.css
     └── script.js
 
+    project structure
+    
+            👨‍🏫 Teacher
+                 │
+                 ▼
+        ┌──────────────────┐
+        │   Web Interface  │
+        │   HTML + CSS     │
+        │   JavaScript     │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │   Flask Backend  │
+        │    REST APIs     │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ SQLite Database  │
+        │ 👨‍🎓 Students     │
+        │ 📋 Attendance    │
+        └──────────────────┘
+<img width="946" height="471" alt="Screenshot 2026-09-05 202330" src="https://github.com/user-attachments/assets/e32acc05-c6a6-4ac9-8a78-f4be65edb8f6" />
+
 
